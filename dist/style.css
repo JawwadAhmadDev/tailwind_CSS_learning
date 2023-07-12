@@ -539,6 +539,14 @@ video {
   height: 100vh;
 }
 
+.h-12 {
+  height: 3rem;
+}
+
+.w-12 {
+  width: 3rem;
+}
+
 .max-w-sm {
   max-width: 24rem;
 }
